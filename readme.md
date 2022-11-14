@@ -1,10 +1,20 @@
-[Nycidian](https://forum.kerbalspaceprogram.com/index.php?/profile/138349-*)
+
+# [[WIP][0.90] Karbon Fiber: Version 0.5](https://forum.kerbalspaceprogram.com/index.php?/topic/101360-wip090-karbon-fiber-version-05/)
+
+for KSP 0.90.
+
+![image](https://user-images.githubusercontent.com/39887717/201591449-3195e70f-da5f-413d-9254-88023e1a2013.png)
+
+## by [Nycidian](https://forum.kerbalspaceprogram.com/index.php?/profile/138349-*)
 
 ![](https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png)
 
-# Important!
+### Important!
 
 Due to changing file structure, for now you must delete the old KarbonFiber folder before installing a new version.
+
+[Imgur](https://imgur.com/a/oKizk)
+[Imgur](https://imgur.com/a/K36yQ)
 
 ### License
 
